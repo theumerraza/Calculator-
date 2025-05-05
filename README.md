@@ -1,4 +1,4 @@
-🧮 Simple Calculator Web App
+<h1>🧮 Simple Calculator Web App</h1>
 
 This is a responsive calculator web application built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division, and percentage calculations.
 
